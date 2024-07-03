@@ -34,7 +34,7 @@
         "DurabilityBurnRatio": 0.28,
         "AutoROF": 1100,
         "SemiROF": 550,
-        "LoyaltyLevel": 3,
+        "LoyaltyLevel": 2,
         "BaseReloadSpeedMulti": 0.85,
         "BaseChamberSpeedMulti": 1,
         "MinChamberSpeed": 0.7,
@@ -48,7 +48,8 @@
             "x": 0,
             "y": -0.35,
             "z": -0.01
-        }
+        },
+        "MasteryCategory": "MDR"
     },
     "6632b12e6de0b8af48c4ad27": {
         "ItemID": "6632b12e6de0b8af48c4ad27",
