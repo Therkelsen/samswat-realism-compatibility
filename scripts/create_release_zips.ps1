@@ -12,18 +12,18 @@ if (-Not (Test-Path -Path $releaseDir)) {
 }
 
 # Create directory names within the release directory
-$baseDir = "$releaseDir\maw-realism-compatibility_v${mod_version}_SPT-v${spt_version}"
+$baseDir = "$releaseDir\samswat-realism-compatibility_v${mod_version}_SPT-v${spt_version}"
 
 # Define the inner directory structure
-$innerDir = "user\mods\SPT-Realism\db\put_new_stuff_here\Module-AdditionalWeapons"
+$innerDir = "user\mods\SPT-Realism\db\put_new_stuff_here\SamSWAT Stuff"
 
 # Create the directories
 New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
 $filesToMove = @(
-    'Module-AdditionalWeapons\FAMAS.json',
-    'Module-AdditionalWeapons\L85A2.json'
+    'SamSWAT Stuff\FAMAS.json',
+    'SamSWAT Stuff\L85A2.json'
 )
 
 # Move files to both directories
@@ -32,7 +32,7 @@ foreach ($file in $filesToMove) {
 }
 
 # Create zip files
-Compress-Archive -Path "$baseDir\*" -DestinationPath "$releaseDir\maw-realism-compatibility_v${mod_version}_SPT-v${spt_version}.zip" -Force
+Compress-Archive -Path "$baseDir\*" -DestinationPath "$releaseDir\samswat-realism-compatibility_v${mod_version}_SPT-v${spt_version}.zip" -Force
 
 # Clean up the created directories
 Remove-Item -Recurse -Force "$baseDir"
