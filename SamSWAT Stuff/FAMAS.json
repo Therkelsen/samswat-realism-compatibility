@@ -1,7 +1,8 @@
 {
     "6632b91ca1a7a5564dad34ac": {
         "ItemID": "6632b91ca1a7a5564dad34ac",
-        "Name": "weapon_mas_famas_556x45_container",
+        "Name": "weapon_famas_556x45_MAW",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -51,9 +52,10 @@
         },
         "MasteryCategory": "MDR"
     },
-    "weapon_famas_556x45": {
-        "ItemID": "weapon_famas_556x45",
-        "Name": "weapon_mas_famas_556x45_container",
+    "66ea1ab604d256f0019d67f8": {
+        "ItemID": "66ea1ab604d256f0019d67f8",
+        "Name": "weapon_famas_556x45_OC",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -105,7 +107,8 @@
     },
     "6632b12e6de0b8af48c4ad27": {
         "ItemID": "6632b12e6de0b8af48c4ad27",
-        "Name": "upper_famas",
+        "Name": "rec_famas_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -121,9 +124,10 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "upper_famas": {
-        "ItemID": "upper_famas",
-        "Name": "upper_famas",
+    "66ea1b0c0132b0d151b4780e": {
+        "ItemID": "66ea1b0c0132b0d151b4780e",
+        "Name": "rec_famas_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -139,9 +143,10 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "6632b0e7be199657958cdddd": {
-        "ItemID": "6632b0e7be199657958cdddd",
-        "Name": "mag_famas_556x45_25",
+    "66ea1af99da7772773f04798": {
+        "ItemID": "66ea1af99da7772773f04798",
+        "Name": "mag_famas_556x45_25_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -155,7 +160,8 @@
     },
     "mag_famas_556x45_25": {
         "ItemID": "mag_famas_556x45_25",
-        "Name": "mag_famas_556x45_25",
+        "Name": "mag_famas_556x45_25_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -169,7 +175,8 @@
     },
     "6632b03eca6e447ccb92b08e": {
         "ItemID": "6632b03eca6e447ccb92b08e",
-        "Name": "mag_famas_556x45_30",
+        "Name": "mag_famas_556x45_30_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -2.5,
         "Ergonomics": 0,
@@ -181,9 +188,10 @@
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0
     },
-    "mag_famas_556x45_30": {
-        "ItemID": "mag_famas_556x45_30",
-        "Name": "mag_famas_556x45_30",
+    "66ea1aca6e813ce8ccc85125": {
+        "ItemID": "66ea1aca6e813ce8ccc85125",
+        "Name": "mag_famas_556x45_30_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -2.5,
         "Ergonomics": 0,
@@ -197,7 +205,8 @@
     },
     "6632b08e74de51403f059e69": {
         "ItemID": "6632b08e74de51403f059e69",
-        "Name": "barrel_famas_488mm",
+        "Name": "barrel_famas_488mm_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -217,9 +226,10 @@
         "ShotgunDispersion": 1,
         "Loudness": 0
     },
-    "barrel_famas_488mm": {
-        "ItemID": "barrel_famas_488mm",
-        "Name": "barrel_famas_488mm",
+    "66ea1ae4eaa0f1ca755089a6": {
+        "ItemID": "66ea1ae4eaa0f1ca755089a6",
+        "Name": "barrel_famas_488mm_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -241,7 +251,8 @@
     },
     "6632b00709ecfdb16444e5ff": {
         "ItemID": "6632b00709ecfdb16444e5ff",
-        "Name": "muzzle_famas_flash_hider",
+        "Name": "muzzle_famas_fh_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -5,
@@ -262,9 +273,10 @@
         "Weight": 0.07,
         "Loudness": 4
     },
-    "muzzle_famas_flash_hider": {
-        "ItemID": "muzzle_famas_flash_hider",
-        "Name": "muzzle_famas_flash_hider",
+    "66ea1b47e789cfded3ceccb6": {
+        "ItemID": "66ea1b47e789cfded3ceccb6",
+        "Name": "muzzle_famas_fh_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -5,
@@ -287,16 +299,18 @@
     },
     "6632aec88ead7013b94b0592": {
         "ItemID": "6632aec88ead7013b94b0592",
-        "Name": "mount_famas_bottom",
+        "Name": "mount_famas_bottom_MAW",
+        "TemplateType": "mod",
         "ModType": "foregrip_adapter",
         "Ergonomics": -2,
         "Accuracy": 0,
         "ConflictingItems": [],
         "Weight": 0.07
     },
-    "mount_famas_bottom": {
-        "ItemID": "mount_famas_bottom",
-        "Name": "mount_famas_bottom",
+    "66ea1b1f21e08ed0df0f53b9": {
+        "ItemID": "66ea1b1f21e08ed0df0f53b9",
+        "Name": "mount_famas_bottom_OC",
+        "TemplateType": "mod",
         "ModType": "foregrip_adapter",
         "Ergonomics": -2,
         "Accuracy": 0,
@@ -305,16 +319,18 @@
     },
     "6632aefb9ade0e483d1196af": {
         "ItemID": "6632aefb9ade0e483d1196af",
-        "Name": "mount_famas_side",
+        "Name": "mount_famas_side_MAW",
+        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": 0,
         "Accuracy": 0,
         "ConflictingItems": [],
         "Weight": 0.05
     },
-    "mount_famas_side": {
-        "ItemID": "mount_famas_side",
-        "Name": "mount_famas_side",
+    "66ea1b312de3035d4aca7af6": {
+        "ItemID": "66ea1b312de3035d4aca7af6",
+        "Name": "mount_famas_side_OC",
+        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -323,16 +339,18 @@
     },
     "6632afdb57948b8c9c11b447": {
         "ItemID": "6632afdb57948b8c9c11b447",
-        "Name": "mount_famas_optic_rail",
+        "Name": "mount_famas_optic_rail_MAW",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
         "ConflictingItems": [],
         "Weight": 0.15
     },
-    "mount_famas_optic_rail": {
-        "ItemID": "mount_famas_optic_rail",
-        "Name": "mount_famas_optic_rail",
+    "66ea1b6fff0fb2ec496c6b44": {
+        "ItemID": "66ea1b6fff0fb2ec496c6b44",
+        "Name": "mount_famas_optic_rail_OC",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
