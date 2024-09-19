@@ -1,7 +1,8 @@
 {
     "6632aab0b450b045b2160db9": {
         "ItemID": "6632aab0b450b045b2160db9",
-        "Name": "weapon_l85a2_556x45_container",
+        "Name": "weapon_l85a2_556x45",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -53,7 +54,8 @@
     },
     "66c549879f8f2447575393cc": {
         "ItemID": "66c549879f8f2447575393cc",
-        "Name": "weapon_l85a2_556x45_container",
+        "Name": "weapon_l85a2_556x45",
+        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -106,6 +108,7 @@
     "6632abd640e9589cbe50f5c4": {
         "ItemID": "6632abd640e9589cbe50f5c4",
         "Name": "barrel_l85a2_518mm",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -128,6 +131,7 @@
     "66c54a2466583e7f0cb48d06": {
         "ItemID": "66c54a2466583e7f0cb48d06",
         "Name": "barrel_l85a2_518mm",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -149,7 +153,8 @@
     },
     "6632ac6284c8d1f2c208fc73": {
         "ItemID": "6632ac6284c8d1f2c208fc73",
-        "Name": "handguard_l85a2_std",
+        "Name": "hg_l85a2_std",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -1,
@@ -165,7 +170,8 @@
     },
     "66c54aad25c20517490416a4": {
         "ItemID": "66c54aad25c20517490416a4",
-        "Name": "handguard_l85a2_std",
+        "Name": "hg_l85a2_std",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -1,
@@ -181,7 +187,8 @@
     },
     "6632acf229c93c0a408f722f": {
         "ItemID": "6632acf229c93c0a408f722f",
-        "Name": "handguard_l85a2_ris",
+        "Name": "hg_l85a2_ris",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -197,7 +204,8 @@
     },
     "66c54a806666e480d8c220be": {
         "ItemID": "66c54a806666e480d8c220be",
-        "Name": "handguard_l85a2_ris",
+        "Name": "hg_l85a2_ris",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -214,6 +222,7 @@
     "6632ad3953d16cf21be7522e": {
         "ItemID": "6632ad3953d16cf21be7522e",
         "Name": "mount_l85a2_rail",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -223,6 +232,7 @@
     "66c54afd174ab1cb9e488960": {
         "ItemID": "66c54afd174ab1cb9e488960",
         "Name": "mount_l85a2_rail",
+        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": 0,
@@ -232,6 +242,7 @@
     "6632ad8ddca02e1335f19533": {
         "ItemID": "6632ad8ddca02e1335f19533",
         "Name": "muzzle_l85a2_556x45",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -5,
@@ -255,6 +266,7 @@
     "66c54b1de9346b698a80fadd": {
         "ItemID": "66c54b1de9346b698a80fadd",
         "Name": "muzzle_l85a2_556x45",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -5,
@@ -277,7 +289,8 @@
     },
     "6632add2cab2e1b57bfb69e4": {
         "ItemID": "6632add2cab2e1b57bfb69e4",
-        "Name": "pistolgrip_l85a2",
+        "Name": "pg_l85a2",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -290,7 +303,8 @@
     },
     "66c54b3125f63a0e6f4c07b4": {
         "ItemID": "66c54b3125f63a0e6f4c07b4",
-        "Name": "pistolgrip_l85a2",
+        "Name": "pg_l85a2",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -303,7 +317,8 @@
     },
     "6632ae53381c8a2cc378ecfe": {
         "ItemID": "6632ae53381c8a2cc378ecfe",
-        "Name": "sight_rear_l85a2",
+        "Name": "rs_l85a2",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -315,7 +330,8 @@
     },
     "66c54b84ef16fdf2d22da5ab": {
         "ItemID": "6632ae53381c8a2cc378ecfe",
-        "Name": "sight_rear_l85a2",
+        "Name": "rs_l85a2",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -327,7 +343,8 @@
     },
     "6632ae4604802ce4ac5d8a72": {
         "ItemID": "6632ae4604802ce4ac5d8a72",
-        "Name": "sight_front_l85a2",
+        "Name": "fs_l85a2",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -339,7 +356,8 @@
     },
     "66c54b7078123cf5eee9ff19": {
         "ItemID": "66c54b7078123cf5eee9ff19",
-        "Name": "sight_front_l85a2",
+        "Name": "fs_l85a2",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
